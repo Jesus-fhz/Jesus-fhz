@@ -7,8 +7,8 @@ A Full-Stack Software Engineer with a love for problem-solving, a desire to cont
 
 ---
 <p align = "center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-fhz&layout=compact&theme=dark&hide_border=true)
-  ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=Jesus-fhz&show_icons=true&hide_border=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-fhz&layout=compact&theme=dark&hide_border=true)
+  ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=jesus-fhz&show_icons=true&hide_border=true&theme=dark)
 </p>
 
 <!--

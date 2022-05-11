@@ -9,7 +9,7 @@ A Full-Stack Software Engineer with a love for problem-solving, a desire to cont
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-fhz&layout=compact&theme=dark&hide_border=true)
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=jesus-fhz&show_icons=true&hide_border=true&theme=dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/gkhan205/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jesus-fhz)](https://github.com/jesus-fhz/github-profile-trophy)
 
 
 

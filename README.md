@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hey, I'm Jesus! 👋 
+A Full-Stack Software Engineer with a love for problem-solving, a desire to continuously learn to add value to the lives of those around us, and I have a personal interest in decentralisation and Web3 technologies.
+
+
+- 🌐 Visit my [porfolio website](www.jesusflores.io) for complete background and contact.
+
+
+---
+<p align = "center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-fhz&layout=compact&theme=dark&hide_border=true)
+  ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=Jesus-fhz&show_icons=true&hide_border=true&theme=dark)
+</p>
 
 <!--
 **Jesus-fhz/Jesus-fhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

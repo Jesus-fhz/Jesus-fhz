@@ -4,6 +4,7 @@ A Full-Stack Software Engineer with a love for problem-solving, a desire to cont
 
 - 🌐 Visit my [porfolio website](www.jesusflores.io) for complete background and contact.
 
+<sub>_We rise by lifting others._</sub>
 
 ---
 

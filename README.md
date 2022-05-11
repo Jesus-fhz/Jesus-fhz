@@ -2,7 +2,7 @@
 A Full-Stack Software Engineer with a love for problem-solving, a desire to continuously learn to add value to the lives of those around us, and I have a personal interest in decentralisation and Web3 technologies.
 
 
-- 🌐 Visit my [porfolio website](www.jesusflores.io) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://jesusflores.io/) for complete background and contact.
 
 <sub>_We rise by lifting others._</sub>
 

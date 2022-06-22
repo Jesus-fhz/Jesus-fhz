@@ -1,7 +1,7 @@
 ### Hey, I'm Jesus! 👋 
 A Full-Stack Software Engineer with a love for problem-solving, a desire to continuously learn to add value to the lives of those around us, and I have a personal interest in decentralisation and Web3 technologies.
 
-
+- 🌐 Currently working @  [33Bondi](https://33bondi.com/) for complete background and contact.
 - 🌐 Visit my [porfolio website](https://jesusflores.io/) for complete background and contact.
 
 <sub>_We rise by lifting others._</sub>
